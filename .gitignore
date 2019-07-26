@@ -1,3 +1,10 @@
+# Project dependencies
+.cache
 node_modules
-public/assets/css/main.css
-public/assets/css/main.css.map
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Build directory
+/public
+.DS_Store

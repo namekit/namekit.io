@@ -1,1 +1,1 @@
-# Marketing Site for NameKit.io
+# NAmeKit Marketing Site
