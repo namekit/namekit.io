@@ -36,12 +36,22 @@
 	}
 
 	@include breakpoint('<=small') {
+		display: block;
+
+		figure {
+			max-width: 150px;
+			margin: 0 auto
+		}
+
 		h1 {
 			font-size: 2em;
+			text-align: center;
+			margin-bottom: 1.5rem;
 		}
 
 		p {
 			font-size: 1em;
+			text-align: center;
 		}
 	}
 
